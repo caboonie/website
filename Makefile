@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_USER=jpriest
+SSH_USER=cnoble
 SSH_HOST=athena.dialup.mit.edu
 SSH_PORT=22
 SSH_TARGET_DIR=/afs/athena.mit.edu/org/s/savetfp/web_scripts/
